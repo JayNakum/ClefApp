@@ -1,0 +1,12 @@
+[submodule "Clef"]
+	path = Clef
+	url = https://github.com/JayNakum/Clef.git
+[submodule "vendor/glfw"]
+	path = vendor/glfw
+	url = https://github.com/JayNakum/glfw.git
+[submodule "vendor/imgui"]
+	path = vendor/imgui
+	url = https://github.com/JayNakum/imgui.git
+[submodule "vendor/glm"]
+	path = vendor/glm
+	url = https://github.com/g-truc/glm.git
